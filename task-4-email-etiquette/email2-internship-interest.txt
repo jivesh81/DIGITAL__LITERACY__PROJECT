@@ -1,0 +1,37 @@
+EMAIL 2 – Summer Internship Interest
+=====================================
+
+To: internship@companyname.com
+Subject: Application for Summer Internship Opportunity – CSE Student, VIT Bhopal University
+
+Dear [Coordinator's Name / Hiring Team],
+
+I hope this message finds you well.
+
+I am Jivesh Pandey, a first-year B.Tech student in Computer Science Engineering at
+VIT Bhopal University (Reg. No. 25BCE10817), writing to express my sincere interest
+in a summer internship opportunity at [Company Name].
+
+Through my coursework, I have been building a foundation in programming, data structures,
+and applied machine learning. I have also been developing hands-on skills through personal
+projects, including a spam message classifier built using Python and neural networks.
+I am eager to apply this knowledge in a professional environment and contribute meaningfully
+to your team while gaining real-world industry experience.
+
+I am particularly drawn to [Company Name] because of [mention one specific reason — e.g.,
+your work in AI/software development / the impact your products have in the industry].
+I believe this internship would be a valuable step in my development as an engineer and
+align well with my long-term career goals.
+
+I would welcome the opportunity to discuss how my background and enthusiasm align with
+your internship programme. I am available for an interview at your convenience and can
+be reached at [your email] or [phone number].
+
+Thank you for considering my application. I look forward to hearing from you.
+
+Yours sincerely,
+Jivesh Pandey
+Reg. No.: 25BCE10817
+B.Tech CSE – First Year
+VIT Bhopal University
+Email: jivesh.pandey@vitbhopal.ac.in

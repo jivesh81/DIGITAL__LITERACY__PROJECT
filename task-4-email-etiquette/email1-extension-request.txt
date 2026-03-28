@@ -1,0 +1,31 @@
+EMAIL 1 – Assignment Deadline Extension Request
+================================================
+
+To: professor.name@vitbhopal.ac.in
+Subject: Request for Assignment Submission Extension – [Course Name/Code]
+
+Dear Professor [Last Name],
+
+I hope this email finds you well.
+
+I am Jivesh Pandey, a first-year B.Tech student in Computer Science Engineering
+(Reg. No. 25BCE10817), enrolled in your course [Course Name/Code].
+
+I am writing to respectfully request a short extension on the assignment submission
+currently due on [Date]. I have been working on the assignment consistently; however,
+I encountered an unexpected difficulty with [briefly mention reason — e.g., understanding
+a specific concept / a technical issue with my setup / a personal health concern]. I
+want to ensure that I submit work that genuinely reflects my understanding of the topic,
+rather than rushing to meet the deadline and submitting incomplete work.
+
+I would be grateful if you could grant me an extension of two to three additional days.
+I assure you this will not become a habit, and I remain fully committed to completing
+all coursework responsibly and on time going forward.
+
+Thank you for your time and understanding. I look forward to your response.
+
+Yours sincerely,
+Jivesh Pandey
+Reg. No.: 25BCE10817
+B.Tech CSE – First Year
+VIT Bhopal University
