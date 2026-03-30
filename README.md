@@ -98,7 +98,7 @@ Completed a beginner challenge on HackerRank — Python Introduction / Solve Me 
 **Part B – Google Forms Quiz:**
 Built a 5-question Digital Literacy Awareness Quiz for batchmates.
 
-Google Form Link: *(add your form link here)*
+Google Form Link: *https://docs.google.com/forms/d/e/1FAIpQLSciXHgQlQ4F5I9EfWF11T82k6tAGdXlz-DT12OTOYuKDuqtoA/viewform*
 
 Quiz includes:
 - 2 multiple choice questions
