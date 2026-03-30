@@ -1,0 +1,5 @@
+For Task 3, I explored both a coding practice platform and a cloud collaboration tool. For coding practice, I used HackerRank and completed a beginner-level programming challenge. This helped me strengthen my logical thinking and problem-solving skills while also making me comfortable with writing code in an online judge environment. The instant feedback system was especially useful because it showed whether my solution was correct and efficient.
+
+For the collaboration part, I created a Google Forms Digital Literacy Awareness Quiz containing exactly five questions, including both multiple-choice and short-answer types. I linked the responses to Google Sheets, which made it easy to view and organize submitted answers. This task helped me understand how collaborative cloud tools can be used for surveys, quizzes, and academic data collection.
+
+These tools will help me academically by improving my coding consistency, enabling quick feedback-based learning, and supporting collaborative projects, surveys, and classroom data analysis in future semesters.
