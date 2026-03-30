@@ -144,7 +144,7 @@ Covers:
 | Task | Tool |
 |------|------|
 | Task 1 | Canva-style infographic design |
-| Task 2 | GitHub, LinkedIn, Kaggle |
+| Task 2 | Stack, LinkedIn, Kaggle |
 | Task 3 | HackerRank, Google Forms, Google Sheets |
 | Task 4 | Plain text / Word editor |
 | Task 5 | Markdown, cybercrime.gov.in research |
