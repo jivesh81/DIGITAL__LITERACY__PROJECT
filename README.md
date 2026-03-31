@@ -35,7 +35,7 @@ digital-literacy-project/
 │   └── description.txt                ← Tool used + brief description
 │
 ├── task-2-portfolio/
-│   ├── github-profile.png             ← GitHub profile screenshot
+│   ├── stack-profile.png             ← Stack profile screenshot
 │   ├── linkedin-profile.png           ← LinkedIn profile screenshot
 │   ├── kaggle-profile.png             ← Kaggle profile screenshot
 │   └── reflection.txt                 ← 150-200 word reflection
